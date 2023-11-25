@@ -1,0 +1,39 @@
+.main{
+    margin: 10px;
+    font-family: "Lora";
+}
+.mainImg{
+    border-radius: 40%;
+}
+.leftSide{
+    text-align: center;
+    width: 400px;
+    height: 700px;
+    background-color: rgb(196, 194, 194, 0.2);
+}
+.rightSide{
+    text-align: left;
+    word-spacing: 4pt;
+    letter-spacing: 1pt;
+    top: 20px;
+    margin-left: 30px;
+    position: absolute;
+    left: 400px;
+    background-color: rgb(196, 194, 194, 0.2);
+    height: 700px;
+    width: 1100px;
+    padding-left: 30px;
+
+}
+.fontSize{
+    font-size: 10pt;
+}
+li{
+    list-style-position: inside;
+}
+.name{
+    font-size: 30pt;
+}
+h2{
+    font-size: 18pt;
+}
